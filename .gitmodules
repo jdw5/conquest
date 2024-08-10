@@ -1,0 +1,3 @@
+[submodule "command/server"]
+	path = command/server
+	url = https://github.com/jdw5/conquest-command
